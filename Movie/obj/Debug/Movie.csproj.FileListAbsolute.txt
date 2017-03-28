@@ -1,0 +1,11 @@
+F:\Movie\Movie\bin\Debug\Movie.exe.config
+F:\Movie\Movie\bin\Debug\Movie.exe
+F:\Movie\Movie\bin\Debug\Movie.pdb
+F:\Movie\Movie\obj\Debug\Movie.csprojResolveAssemblyReference.cache
+F:\Movie\Movie\obj\Debug\Movie.Admin.resources
+F:\Movie\Movie\obj\Debug\Movie.Form1.resources
+F:\Movie\Movie\obj\Debug\Movie.Properties.Resources.resources
+F:\Movie\Movie\obj\Debug\Movie.Users.resources
+F:\Movie\Movie\obj\Debug\Movie.csproj.GenerateResource.Cache
+F:\Movie\Movie\obj\Debug\Movie.exe
+F:\Movie\Movie\obj\Debug\Movie.pdb
